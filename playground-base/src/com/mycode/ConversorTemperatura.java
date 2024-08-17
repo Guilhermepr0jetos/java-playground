@@ -1,3 +1,4 @@
+package com.mycode;
 public class ConversorTemperatura {
     public static void main(String[] args) {
         System.out.println("\ntemperatura em kelvin: "+celsiusparaKelvin(40));

@@ -1,3 +1,4 @@
+package com.mycode;
 public class EaeOutput {
     public static void main(String [] args){
         escreverString("eae\n");
